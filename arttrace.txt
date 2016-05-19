@@ -1,6 +1,9 @@
 03/10/2016 23:33:20:0739 artstartsvc.cpp,670:	Waitformultipleobjects while loop (68C.6A0)
 03/10/2016 23:33:20:0739 route.cpp,679:	route add 206.108.109.248 MASK 255.255.255.252 9.77.192.1 METRIC 1 IF 9.77.200.22 returned RC=0 (2310.AB4)
 03/10/2016 23:33:20:0739 DATAMGR	Adding route: Destination = 206.199.0.0 Mask = 255.255.0.0 (2310.AB4)
+
+
+
 03/10/2016 23:33:20:0755 artstartsvc.cpp,673:	Waitformultipleobjects returned w/ 6 (68C.6A0)
 03/10/2016 23:33:20:0755 artstartsvc.cpp,670:	Waitformultipleobjects while loop (68C.6A0)
 03/10/2016 23:33:20:0755 route.cpp,679:	route add 206.199.0.0 MASK 255.255.0.0 9.77.192.1 METRIC 1 IF 9.77.200.22 returned RC=0 (2310.AB4)
